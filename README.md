@@ -1,4 +1,4 @@
-> <img src="https://readme-typing-svg.herokuapp.com/?size=21&color=FFFFFF&width=408&height=59&lines=Python,+Bash,+ElectronJS+html/css"/>
+> <img src="https://readme-typing-svg.herokuapp.com/?size=21&color=000000&width=408&height=59&lines=Python,+Bash,+ElectronJS+html/css"/>
   
 ## Statistiques
 
